@@ -1,0 +1,14 @@
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\bin\Debug\Reports\fastReport1.frx
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled
+D:\练习项目\不同报表的导出\WindowsFormsApplication1\bin\Debug\Reports\Report1.rdlc
